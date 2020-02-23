@@ -10,6 +10,18 @@ Não canso de ouvir a Maria:
 "Joooooooooãoooooooooo, o café tá prontinho aqui. Veeemmm"!
 `;
 
+const arquivos = [
+    'Atenção.jpg',
+    'FOTO.jpeg',
+    'Meu gatinho.jpg',
+    'Meu gatinho.JPG',
+    'Meu gatinho.JPEG',
+    'Meu gatinho.JPeeEeeeeeeeeeeeeeeeeeeeeeeeeEEEEEEEEEEEEeeeeeeeeeeeG',
+    'Marido.png',
+    'lista de compras.txt',
+];
+
 module.exports = {
-    texto
+    texto,
+    arquivos
 }
